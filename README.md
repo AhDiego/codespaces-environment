@@ -21,7 +21,3 @@ I recommend using VS code to open the codespace to not make localhost/127.0.0.1 
 - [ ] Hacking Scripts (I do not promote hacking.)
 - [x] XFCE4 Desktop Enviroment
 - [x] How-to
-
-## Follow the folders i write here:
-
-[![xfce4](https://img.shields.io/badge/xfce4-00008B)](https://github.com/AhDiego/codespaces-environment/blob/main/xfce4/tutorial.md)
