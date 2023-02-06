@@ -14,7 +14,7 @@ I recommend using VS code to open the codespace to not make localhost/127.0.0.1 
 
 <img width="359" alt="image" src="https://user-images.githubusercontent.com/116313580/216829996-5edada0e-5426-4847-b755-27a168aa1f86.png">
 
-Ubuntu Version:
+## Ubuntu Version:
 
 | Metadata | Value |  
 |----------|-------|
