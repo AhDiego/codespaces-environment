@@ -16,8 +16,15 @@ I recommend using VS code to open the codespace to not make localhost/127.0.0.1 
 
 ## Features:
 
+Is checked:
 - [x] Installations
 - [x] Scripts
-- [ ] Hacking Scripts (I do not promote hacking.)
 - [x] XFCE4 Desktop Enviroment
-- [x] How-to
+
+Isn't checked:
+- [ ] Hacking Scripts (I do not promote hacking.)
+- [ ] Fully-made program for installation
+- [ ] Full installation for all programs
+- [ ] Supports all programs
+- [ ] Audio Support (pulseaudio)
+- [ ] High-end support
