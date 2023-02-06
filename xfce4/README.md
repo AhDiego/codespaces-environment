@@ -16,29 +16,7 @@ open the terminal and type this:
 
 make sure it pops up this:
 
-```
-@AhDiego ➜ /workspaces/codespaces-environment (main) $ neofetch
-            .-/+oossssoo+/-.               codespace@codespaces-82fdf5 
-        `:+ssssssssssssssssss+:`           --------------------------- 
-      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 20.04.5 LTS x86_64 
-    .ossssssssssssssssssdMMMNysssso.       Host: Virtual Machine 7.0 
-   /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 5.4.0-1100-azure 
-  +ssssssssshmydMMMMMMMNddddyssssssss+     Uptime: 18 mins 
- /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 659 (dpkg) 
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Shell: bash 5.0.17 
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+   Terminal: vscode 
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso   CPU: Intel Xeon Platinum 8272CL 
-ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Memory: 854MiB / 7957MiB 
-+sssshhhyNMMNyssssssssssssyNMMMysssssss+
-.ssssssssdMMMNhsssssssssshNMMMdssssssss.                           
- /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/                            
-  +sssssssssdmydMMMMMMMMddddyssssssss+
-   /ssssssssssshdmNNNNmyNMMMMhssssss/
-    .ossssssssssssssssssdMMMNysssso.
-      -+sssssssssssssssssyyyssss+-
-        `:+ssssssssssssssssss+:`
-            .-/+oossssoo+/-.
-```    
+<img width="599" alt="image" src="https://user-images.githubusercontent.com/116313580/217057850-56a2fee3-8341-4994-9a23-7f5ea7089d89.png">
 
 ```sudo apt install xfce4 xfce4-goodies```
 
