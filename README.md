@@ -14,6 +14,20 @@ I recommend using VS code to open the codespace to not make localhost/127.0.0.1 
 
 <img width="359" alt="image" src="https://user-images.githubusercontent.com/116313580/216829996-5edada0e-5426-4847-b755-27a168aa1f86.png">
 
+Ubuntu Version:
+
+| Metadata | Value |  
+|----------|-------|
+| *Image type* | Dockerfile |
+| *Published images* | mcr.microsoft.com/devcontainers/base:ubuntu |
+| *Available image variants* | ubuntu-22.04 / jammy |
+| *Published image architecture(s)* | x86-64, aarch64/arm64 for `ubuntu-22.04` (`jammy`) variants (what we use)  |
+| *Container host OS support* | Linux, macOS, Windows (No Android support) |
+| *Container OS* | Ubuntu |
+| *Languages, platforms* | Any |
+
+*from dev-containers / Debian Bullseye won't be supported because the code I provide won't work.*
+
 ## Features:
 
 Is checked:
