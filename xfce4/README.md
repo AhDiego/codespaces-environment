@@ -16,7 +16,7 @@ open the terminal and type this:
 
 make sure it pops up this:
 
-<img width="599" alt="image" src="https://user-images.githubusercontent.com/116313580/217057850-56a2fee3-8341-4994-9a23-7f5ea7089d89.png">
+<img width="599" alt="image" src="https://user-images.githubusercontent.com/116313580/217058020-cf51eeb4-3972-4968-afc2-81cd7d703cd3.png">
 
 ```sudo apt install xfce4 xfce4-goodies```
 
