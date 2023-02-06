@@ -20,6 +20,7 @@ Is checked:
 - [x] Installations
 - [x] Scripts
 - [x] XFCE4 Desktop Enviroment
+- [x] Ubuntu 22.04 (Yay! Finally)
 
 Isn't checked:
 - [ ] Hacking Scripts (I do not promote hacking.)
