@@ -1,6 +1,6 @@
 **⚠️ WARNING: KDE Plasma and LXDE are deleted and will not be supported in my projects that I will make, Future update are coming.**
 
-![8A1663F1-4B1E-402F-88FF-71BFAA5103AA](https://user-images.githubusercontent.com/116313580/216795263-72a5b8a0-f385-4aaa-8238-b2f0b6091e1f.png)
+![Untitled design](https://user-images.githubusercontent.com/116313580/217292402-ac7dbd71-9fac-467b-95ce-b1f409ac6eb5.png)
 # Codespaces Enviroment (CE)
 
 [![Codespaces - ✅](https://img.shields.io/badge/Codespaces-✅-000000)](https://github.com/codespaces)
